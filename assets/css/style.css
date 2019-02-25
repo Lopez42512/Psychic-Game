@@ -1,0 +1,24 @@
+.jar{
+    font-weight: bolder;
+    position: fixed;
+    top:270px;
+    left:18%;
+    color: white;
+    font-size: 35px;
+    /* text-shadow: 2px 2px white; */
+    -webkit-text-stroke: 2px purple;
+
+};
+.game{
+    color: blue;
+    position: fixed;
+    top: 10%;
+    color: purple;
+};
+
+/* #gif{ */
+    /* position: fixed; */
+    /* width:100%; */
+    /* height: 100%; */
+    /* background-size: cover; */
+/* } */
