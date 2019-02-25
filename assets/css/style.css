@@ -9,6 +9,7 @@
     -webkit-text-stroke: 2px purple;
 
 };
+/* this code wasn't wasn't working for some reason, had to imput style directly in div */
 .game{
     color: blue;
     position: fixed;
